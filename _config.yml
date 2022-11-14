@@ -1,0 +1,26 @@
+title:              Provenance Week 2023
+stitle:             Provenance Week 2023
+email:              tapp2022sigmod@gmail.com
+description:        co-located with SIGMOD, proceedings at https://dblp.org/db/conf/tapp/tapp2022.html
+author:             Provenance Week 2023
+baseurl:            ""
+url:                "https://tapp2022.github.io/"
+
+# Social Profiles
+
+github_username:    tapp2022
+
+instagram_username:
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
