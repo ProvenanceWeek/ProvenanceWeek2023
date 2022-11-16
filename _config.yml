@@ -3,8 +3,8 @@ stitle:             Provenance Week 2023
 email:              tapp2022sigmod@gmail.com
 description:
 author:             Provenance Week 2023
-baseurl:            "/ProvenanceWeek2023"
-url:                "https://tapp2022.github.io/ProvenanceWeek2023"
+baseurl:            "Provenance Week 2023"
+url:                "https://tapp2022.github.io/"
 
 # Social Profiles
 
