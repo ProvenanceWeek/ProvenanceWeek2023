@@ -6,6 +6,8 @@ email:              tapp2022sigmod@gmail.com
 description:
 author:             ProvenanceWeek2023
 baseurl:            "/ProvenanceWeek2023"
+tappurl:            "/TaPP2023"
+ipawurl:            "/IPAW2023"
 url:                "https://tapp2022.github.io/"
 
 # Social Profiles
